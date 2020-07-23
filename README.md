@@ -1,6 +1,7 @@
 # Image Stream Compress
 
 [![npm version](https://badge.fury.io/js/image-stream-compress.svg)](https://badge.fury.io/js/image-stream-compress)
+![Publish](https://github.com/bootsie123/Image-Stream-Compress/workflows/Publish/badge.svg?branch=master)
 
 An image compression library for image streams (modified from [node-pngquant](https://github.com/papandreou/node-pngquant)). Uses [pngquant](https://github.com/kornelski/pngquant) and [mozjpeg](https://github.com/mozilla/mozjpeg) for compression
 
