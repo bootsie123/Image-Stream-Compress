@@ -1,6 +1,6 @@
 {
   "name": "image-stream-compress",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Compresses image streams using pngquant and mozjpeg",
   "author": {
     "name": "thebootsie123",
