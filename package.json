@@ -19,9 +19,6 @@
     "type": "git",
     "url": "git://github.com/bootsie123/Image-Stream-Compress.git"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/Image-Stream-Compress"
-  },
   "keywords": [
     "image-compress",
     "compress",
