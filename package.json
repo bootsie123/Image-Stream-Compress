@@ -30,6 +30,7 @@
   ],
   "dependencies": {
     "mozjpeg": "^7.0.0",
-    "pngquant-bin": "^6.0.0"
+    "pngquant-bin": "^6.0.0",
+    "bl": "~^1.2.3"
   }
 }
